@@ -9,7 +9,7 @@ Some other links you may find interesting about me:
 
 1- https://opensea.io/collection/diabetic-tan-lines - The first Diabetes NFT collection living on the Ethereum blockchain
 
-2- www.instagram.com/thediabeticsurvivor - A community to raise diabetes awareness
+2- www.instagram.com/thediabeticsurvivor - A community to raise diabetes awareness (planning to migrate to Discord soon!)
 
 3- www.santiagopaulos.com - Visual artist
 
