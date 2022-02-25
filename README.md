@@ -1,8 +1,17 @@
 - 👋 Hi, I’m Santiago Paulos
-- 👀 I’m interested in the intersection of design and technology. Particularly connecting the visual with how we interact online and with devices. I’m very keen on illustration, design, painting, and visual culture.
+- 👀 I’m interested in the intersection of design and technology. Particularly connecting the visual with how we interact online and with devices. I'm much interested in privacy. I’m also very keen on illustration, design, painting, and visual culture studies.
 - 🌱 I’m currently learning Atomic Design and SEO.
 - 💞️ I’m looking to collaborate on diabetes related projects and/or OSS (NFT's, blockchain, DAO's).
 - 📫 Reach me at spaulos@gmail.com
+
+
+Some other links you may find interesting about me:
+
+1- https://opensea.io/collection/diabetic-tan-lines - The first Diabetes NFT collection living on the Ethereum blockchain
+
+2- www.instagram.com/thediabeticsurvivor - A community to raise diabetes awareness
+
+3- www.santiagopaulos.com - Visual artist
 
 <!---
 s-paulos/s-paulos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
